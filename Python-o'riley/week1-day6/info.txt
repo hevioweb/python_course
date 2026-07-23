@@ -1,0 +1,26 @@
+File handeling:
+
+   opening files - use built in open() function to open a file: (read: r) (override: w) (append: a) (read and write: r+)
+
+   reading files - .read() read entire file   .readline() read one line    .readlines() read multiple lines
+
+   writing to files - .write() .writelines()
+
+
+
+Using "with" statements
+
+   what is it? The with statement runs a block using a context manager that automatically handles setup and guaranteed cleanup (e.g., closing files) even if an exception occurs.
+
+   advanteges -simplifies code
+              -Reduces the risk of file corruption
+
+
+
+Basic Exception Handling for File Operations
+
+    why use exeption Handling?  - prevents a programm from crashing due ti file-related erorrs (e.g. file not found)
+
+    common file Handaling exeptions:  - FileNotFoundError
+                                      - PermissionError
+                                      - IOError

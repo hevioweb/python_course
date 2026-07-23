@@ -1,0 +1,38 @@
+define functions with def
+
+what are functions? function is great when you need to repeat one block of code multiple times = just call it
+Definig a function: def
+
+
+Scope and lifetime of variables
+
+-scope: 2 diffrent types  --> 1.local scope: only accessible within the the function it was created
+                              2.Global Scope: accessible everywhere
+
+
+
+Importing and Using Modules:
+
+-what are modules?:
+A module is a Python file that contains code: functions, classes, variables, and runnable statements.
+Any .py file can be used as a module.
+You use modules to organize code into separate files and reuse it with import.
+
+-Import module
+   --> Import entire module: 
+   --> Import Specific function
+   --> if a module to big you can shorten it with for example: import math as m
+
+-Creating a custom Modules
+
+
+
+
+
+
+
+Vocabular:
+
+.add:   numbers = {1, 2, 3}
+        numbers.add(4)
+        print(numbers)  # {1, 2, 3, 4}

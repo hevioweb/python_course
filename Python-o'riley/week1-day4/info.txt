@@ -1,0 +1,47 @@
+Lists:
+
+What are Lists?  a collection of ellements (can also be mixed)   []
+
+accessing Lists?  -by index (start at 0) for example if list is  1 2 3 4   and we want 3  then its 0 1 2  its: 2
+                  -by negative index for example in list 1 2 3 the negative index -1 is 3
+
+Modifying Lists: .append: is a list method that adds one item to the end of the list, e.g. my_list.append(5) puts 5 at the end.
+                 .insert: is a list method to insert something between indexes for example fruits.insert(1, "annanas")  isert ananas at index 1 
+                 .remove: self explanatory
+                 .pop: removes last ellement
+
+
+
+
+
+
+Tuples:
+
+what are tuples? non changable collection   ()
+
+accessing tuples: same index princep
+
+
+
+
+
+
+Dictionaries
+
+what are Dictionaries: collections of like variables and content   {}
+
+accessing Dictionaries: by value like print(student["age"])
+
+Modifying Dictionaries: -by giving new value and accessing values 
+
+iteration: giving key and value
+
+
+
+
+
+
+Sets
+
+what are Sets: unorded collections of unique items 
+

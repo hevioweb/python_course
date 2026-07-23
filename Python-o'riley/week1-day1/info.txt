@@ -1,0 +1,16 @@
+Basic python Syntax, Variables and Data types
+
+- Data types: Integers, Floats, Strings, Lists, Tuples, Dictionaries, Booleans
+
+List: A list is an ordered collection you can change after creation
+Tuple: A tuple is an ordered collection you cannot change once created.
+integer: An integer is a whole number with no decimal part (like 3, 0, -5).
+Float: A float is a number that can have a decimal point (like 3.14, 0.0, -2.5).
+Dictionaries: A dictionary is a collection of key-value pairs where each unique key maps to a value, like {"name": "Alice", "age": 30}.
+
+.append: is a list method that adds one item to the end of the list, e.g. my_list.append(5) puts 5 at the end.
+
+
+
+[] → list
+() → tuple / grouping / function-call
