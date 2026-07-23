@@ -1,0 +1,14 @@
+what i lerned is a lot of stuff. 
+
+First i learned 3 new methods:      .lower(), it makes all letters low case        .upper(), it makes all charecters uppercase         and .title(), it makes things from this: hi this is max --> Hi This Is max
+
+then i learned list, it uses [] and is separeted by ,. I learned how to use indexes and how it the data in lists is stored. I learned that the indexes change all the time depending where you put your code SEE @exercice_shrinking_guest_list_3_7.py
+I learned to use new modules like:
+
+for adding value to lists: .append() it adds value to the end
+                           .insert() it adds value to a specifc indexe
+
+for removing value: 
+                    .pop() removes value from a specific index but it can be reused for letting the value jnow it was removed SEE @exercice_shrinking_guest_list_3_7.py
+                    .remove() deletes value from a specific index or just delets
+                    del deletes value

@@ -1,0 +1,1 @@
+form the chapter 2 i lerned using prefix and sufix and romoving them for example in file_extension.py i lerned to remove filetypes form the file. I also lerned t ostrip away unwanted white space form strings.
