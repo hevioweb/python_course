@@ -1,0 +1,17 @@
+today i learned several methodes and a few in built fuctions
+
+.sort() methode is sorting a list alphabeticly. It can also have the reverse=True argument which makes this methode sort reverse alphabeticly. Acts premenatly
+
+.reverse() just reverses the list 
+
+sorted() same as sort methode but works only one time
+
+len() counts values in a list and prints them as a integer 
+
+
+I also lerned how to asign a argument to a function and it separeted by a comma 
+for example  
+print(sorted(locations, reverse=True))
+
+
+i also learned a new type of error called IndexError: if you request a certain index inside a list and it isnt there then its a index error means python cant find a index you requested. 
