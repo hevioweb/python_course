@@ -1,0 +1,26 @@
+i compleated a whole chapter 4 today so i learned a lot
+
+
+
+for the star t in batch 1 i learned for loops with lists, how they work and what indentation is: its a space to indent that a certain code block runs a separate piece.
+a for loop always has a : at teh end. 
+
+
+
+in batch 2 i learned 2 new functions: list(): if you you want to create a list with a range function.
+                                      range(): it acts as a range function, for example range(1,20) it adds the items and starts at item 1 to item 19
+i also lerned funtions min() max() sum(): those function give the smallest item in a list, the bigger and sum of all the items in a list
+
+then i learned about the third argument in the range() function, it multiples each item in the list by the argument for example range(1, 20, 3) it multiples 1 by 3, then 2 by 3 and so on.
+
+and lastly i learned in batch 2 i learned a comprehensive list, its a list the execute sorten code at a lower lines, so like a compact code for example you can see the exercise 4_7
+
+
+
+in batch 3 i learned how to slice lists for eaxmple: list[1:4] #the list is sliced from item at index 1 to index 4 total 3 items
+then i lerned how to copy lists, you just have to use the slice but not giving any indexes so it slices the whole list, then assing it to new value and its done: 
+new_list = list[:]
+
+
+
+in batch 4 i learned how to create tupples, instead of those brackets [] it uses curved ones (), you cant modify tulpes like list but you can redefine and add items to a tulpe; See exercise 4_13
