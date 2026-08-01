@@ -1,0 +1,29 @@
+i learned today about if statements:
+
+
+in batch 1 i learned simple if statements
+        if var == "something":  # if it does match something the code executes
+        if var != "something":  # if it doesnt match something the code executes
+ 
+        there are a lot of diffrent weay to use the if condition tests, most of them are in 5.2
+
+        the are also certain keywords, for example if you write: if number >= 10 or number <= 10: or means if one of the conditions match the code bellow executes
+        there is also the and keyword, it means when both of the conditions match the code bellow executes.
+
+
+in batch 2 i learned other if statements as if-else and if-elif-else chains
+
+the if elif chains are used to execute one test, for example if multiple things are needed to be printed out one after another teh cahin would only execute one thing and then stop
+better to use it with for loops for this tasks
+
+
+in batch 3
+
+i worked with if statements inside loops, the 5_9 would be very interesting becaouse its if statement inside a loop inside a if statement
+
+i also had a question, for the for loops when we decleared the loop variable (the variable before in is the loop variable which is used to execute the code in the loop)
+for example in here 5_10: for new_users_lower in new_users_lower: we used same variable twice. 
+
+the answear was that its actuly a bad practice to name a loop variable same as the list variable. When i actully tried to change it to another variable the programm would crash. 
+the problem was i only changed the loop varialbe but everything bellow  relied on the loop variable so it crashed. In 5_10 I changed teh variable to more better wasy and of the 
+variables bellow it because everything else is the loop variable for mthe begining. SEE 5_10  
